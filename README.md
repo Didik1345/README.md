@@ -1,5 +1,4 @@
-# README.md
-# 👋 Selamat Datang di Profil Saya!
+![Img 1](Gambar1.PNG)
 
 ## 🌟 Kenalan Yuk!
 
@@ -9,7 +8,7 @@ Halo! Nama saya **Didik Cahyadi**. Saya adalah mahasiswa **Teknik Informatika** 
 
 - **📚 Jurusan:** Teknik Informatika
 - **🏫 Universitas:** Universitas Papua
-- **🌏 Lokasi:** Manokwari, Papua Barat
+- **🌏 Lokasi:** Papua Barat, Indonesia
 
 ## 💡 Minat Saya
 
@@ -19,11 +18,11 @@ Saya sangat antusias tentang berbagai bidang teknologi, termasuk:
 - **🤖 Kecerdasan Buatan:** Menjelajahi potensi mesin yang belajar dan beradaptasi.
 - **🔍 Teknologi Jaringan:** Mempelajari cara sistem berkomunikasi dan terhubung.
 
-## 🌈 Mari Terhubung!
+## 🌈 Ayo Terhubung!
 
 Saya selalu terbuka untuk berkolaborasi atau sekadar berbincang! Anda bisa menghubungi saya melalui:
 
-- **✉️ Email:** [didik.cahyadi@email.com](mailto:didik.cahyadi@email.com)
-- **🔗 LinkedIn:** [Didik Cahyadi](https://www.linkedin.com/in/didikcahyadi)
+- **✉️ Email:** [cahyadididik13@gmail.com](mailto:cahyadididik13@gmail.com)
+- **📸 Instagram:** [didik_ajhaa](https://www.instagram.com/didik_ajhaa)
 
 Terima kasih telah mengunjungi profil saya! Semoga hari Anda menyenangkan! 🌟
