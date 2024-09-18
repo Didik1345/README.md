@@ -14,7 +14,7 @@ Halo! Nama saya **Didik Cahyadi**. Saya adalah mahasiswa **Teknik Informatika** 
 
 Saya sangat antusias tentang berbagai bidang teknologi, termasuk:
 
-- **📊 Data Science:** Menggali informasi berharga dari data untuk solusi yang cerdas.
+- **🖥️ Administrasi Sistem:** Mempelajari cara mengelola dan mengoptimalkan sistem komputer.
 - **🤖 Kecerdasan Buatan:** Menjelajahi potensi mesin yang belajar dan beradaptasi.
 - **🔍 Teknologi Jaringan:** Mempelajari cara sistem berkomunikasi dan terhubung.
 
