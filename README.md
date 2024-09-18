@@ -1,4 +1,4 @@
-![Img 1](Gambar1.PNG)
+![Img 1](Gambar1.png)
 
 ## 🌟 Kenalan Yuk!
 
