@@ -18,7 +18,7 @@ Saya sangat antusias tentang berbagai bidang teknologi, termasuk:
 - **🤖 Kecerdasan Buatan:** Menjelajahi potensi mesin yang belajar dan beradaptasi.
 - **🔍 Teknologi Jaringan:** Mempelajari cara sistem berkomunikasi dan terhubung.
 
-## 🌈 Ayo Terhubung!
+## ✨ Ayo Terhubung!
 
 Saya selalu terbuka untuk berkolaborasi atau sekadar berbincang! Anda bisa menghubungi saya melalui:
 
